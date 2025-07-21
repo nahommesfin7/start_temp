@@ -1,1 +1,4 @@
-# start_temp
+# React + TypeScript + Vite + Tailwind
+
+## Starter Template
+
